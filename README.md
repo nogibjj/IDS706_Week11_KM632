@@ -37,6 +37,6 @@ Step 3. Query to Analyze
 
 Another SQL based notebook was created for this step. Here we analyze the data to understand the which artist released the most amount of songs each year and find songs for the DJ list. 
 
-Once steps 1-3 are completed, I creates a Databricks job to run the pipeline. 
+Once steps 1-3 are completed, I created a Databricks job to run the pipeline. 
 
 ![Alt Text](workflow.png)
